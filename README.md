@@ -12,7 +12,7 @@ Features:
 * Dynamic updates using JavaScript.
 
 Demo:
-You can play the game online at 
+You can play the game online at - https://gayathrimathavan.github.io/Rock_Paper_Scissor/
 
 How to Play:
 Upon opening the game, you will see options for rock, paper, and scissors.
