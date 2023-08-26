@@ -1,0 +1,38 @@
+div {
+    background-color: white;
+}
+
+.container-fluid {
+    margin-top: 5%;
+    margin-bottom: 4%;
+}
+
+body {
+    font-family: 'Staatliches', cursive;
+    font-size: 1.5rem;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    text-transform: capitalize;
+}
+
+#makeRed {
+    color: indigo;
+}
+
+#makeBlue {
+    color: #ff014f;
+    margin-right: 15px;
+    font-size: 1.7rem;
+}
+
+#makeGreen {
+    color: #12a4d9;
+    font-size: 1.7rem;
+}
